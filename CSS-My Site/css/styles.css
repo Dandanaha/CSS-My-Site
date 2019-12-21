@@ -7,5 +7,24 @@ h1 {
 }
 
 div {
+  height: 200px;
+  width: 200px;
+}
+
+.top-container {
   background-color: #E0F8F7;
+  border: 10px solid black;
+  padding: 20px;
+}
+
+.middle-container {
+  background-color: red;
+  border: 20px solid black;
+  margin-left: 260px;
+}
+
+.bottom-container {
+  background-color: yellow;
+  border: 10px solid black;
+  margin-left: 500px;
 }
